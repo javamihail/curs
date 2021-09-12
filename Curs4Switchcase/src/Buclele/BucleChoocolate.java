@@ -1,3 +1,5 @@
+package Buclele;
+
 public class BucleChoocolate {
     public static void main(String[] args) {
         int money = 5;

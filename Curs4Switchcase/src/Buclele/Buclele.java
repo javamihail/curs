@@ -1,4 +1,4 @@
-// ce va afi șa următorul program?   0,1,2
+package Buclele;// ce va afi șa următorul program?   0,1,2
 
 
 public class Buclele {

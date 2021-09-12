@@ -1,3 +1,5 @@
+package Switch;
+
 public class SwitchClass {
     public static void main(String[] args) {
         int state = 0;

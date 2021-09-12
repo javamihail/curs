@@ -1,3 +1,5 @@
+package Ascii;
+
 import java.util.Scanner;
 
 public class Ora {
