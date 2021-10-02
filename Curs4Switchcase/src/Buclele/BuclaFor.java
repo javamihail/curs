@@ -1,4 +1,4 @@
-package Buclele;// afiseaza de la 10 pna la 0
+package Buclele;// afiseaza de la 10 pana la 0
 
 public class BuclaFor {
     public static void main(String[] args) {
