@@ -7,7 +7,6 @@
       <sourceFolder url="file://$MODULE_DIR$/Youtube/Structuri de date primitive" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Youtube/DATE PRIMITIVE/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Youtube" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Curs 6" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ram" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/w3resources" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 1-  Basic Concepts of Java Programming_1/Operators" isTestSource="false" />
@@ -15,7 +14,89 @@
       <sourceFolder url="file://$MODULE_DIR$/Oreilly/String Basic/String Basics" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 2 - Strings Basics_2/String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 3  Object-Oriented Programming_3/OOP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 4 Special Classes in Java/Math Class_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Curs 6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Curs 7/Veterinar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercitii/Mobil" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 4 Special Classes in Java/String_Builder_Class_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 4 Special Classes in Java/String_Builder_Method_3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 4 Special Classes in Java/Scanner Class_4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 4 Special Classes in Java/Random Class_5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 4 Special Classes in Java/UUID_CLASS_6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter- 5 - What's New in Java 10/Var keywords_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 6 - Inheritance and Abstraction/Class Inheritance_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 6 - Inheritance and Abstraction/Method Overriding_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 6 - Inheritance and Abstraction/Super_Keywords_4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 6 - Inheritance and Abstraction/Super Class Constructor 5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 6 - Inheritance and Abstraction/Protected Access_6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 6 - Inheritance and Abstraction/Abstraction_7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 6 - Inheritance and Abstraction/Interface_8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 6 - Inheritance and Abstraction/Final Keyword_9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Oreilly/Chapter 7 - Arrays in Java/Modified-Enhanced -For-loop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy/Clase si Obiecte_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy/Constructori_2/Phone" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy/Constructori_2/Exercitiul 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy Masterclass/Curs 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy Masterclass/Curs 2/Scanner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy Masterclass/Curs 3/IF-ELSE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy Masterclass/Curs 3/Switch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy Masterclass/Curs 3/Operatorul Ternar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy Masterclass/Curs 3/BuclaFor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy Masterclass/Curs 3/BuclaWhile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy Masterclass/Curs 4/Vectori" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy Masterclass/Curs 4/AlgoritmBubbleSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy Masterclass/Curs 4/ArrayList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy Masterclass/Curs 4/MetodeSiFunctii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy Masterclass/Curs 4/Recursivitate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Curs1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/Constructori" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/Car" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/Telefon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/Person" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/Cars" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/Phone" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/Robot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/Book" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/Radio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/Pencil" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/User" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/Facebook" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/PC si Monitor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Clase si Obiecte Curs 3/Aragaz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Mostenire Section 6/Mostenire/Exercitii-Car" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Mostenire Section 6/Mostenire/Exercitii-Phone" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Mostenire Section 6/Mostenire/Exercitii-Animal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Mostenire Section 6/Mostenire/Hero" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Mostenire Section 6/Mostenire/StudentX" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Mostenire Section 6/Mostenire/Automobil" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Mostenire Section 6/Mostenire/Staff" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Mostenire Section 6/Mostenire/Client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/SESSSS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Personnnn" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Polimorfism Section 9/Cetatean-Exercitii1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Polimorfism Section 9/Exercitii-Car2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Polimorfism Section 9/Exercitii3 CAR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Polimorfism Section 9/ExercitiiPlane4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Polimorfism Section 9/ExercitiiCoffe5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Polimorfism Section 9/ExercitiiShaorma6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Polimorfism Section 9/ExercitiiShooter7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Polimorfism Section 9/Exercitii Video Player 8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Overloading Vs. Overriding Section 10/Animal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Overloading Vs. Overriding Section 10/ConsolePrinter Exercitii 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Overloading Vs. Overriding Section 10/Person004" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Overloading Vs. Overriding Section 10/Procesator Exercitii 3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Constante- Section 11/Constante/Exercitii1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Constante- Section 11/Constante/Exercitii2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Constante- Section 11/Constante/Animal006" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Constante- Section 11/Constante/Phone005" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Constante- Section 11/Constante/Exercitii3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Constante- Section 11/Constante/Teacher4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Constante- Section 11/Constante/Car6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Pachete-Section12/People" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Pachete-Section12/Amusament" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Academy OOP/Incapsulare-Section13" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Curs 6/Mostenire" />
+      <excludeFolder url="file://$MODULE_DIR$/Oreilly/Chapter- 5 - What's New in Java 10" />
       <excludeFolder url="file://$MODULE_DIR$/Youtube/Clase si Metode/src" />
     </content>
     <orderEntry type="inheritedJdk" />

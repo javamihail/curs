@@ -6,7 +6,7 @@ public class Car {
     protected boolean started; // daca motorul este pornit
     static int wheels = 4;
 
-    public void start() {
+    public void drive() {
         started = true; // am pornit masina
 
     }

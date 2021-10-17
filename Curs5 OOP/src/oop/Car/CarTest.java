@@ -1,7 +1,9 @@
 package oop.Car;
 
 public class CarTest {
+
     public static void main(String[] args) {
+
         Car mercedes = new Car(10f,8f,false);   // instructiunea pentru a  creea un obiect nou
         Car dacia = new Car(10f, 5f, false);
         mercedes.fuel = 60;

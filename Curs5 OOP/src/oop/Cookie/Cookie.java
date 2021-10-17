@@ -1,14 +1,21 @@
 package oop.Cookie;
 
 public class Cookie {
-        String form;    // forma
-        String taste;   // gust
-        float weight;  //greutate
+/*
+ *    Initializam obiectul
+ *    Creem actiuni cu public void eat si intre acoloade scriem ce se intampla cu ea ( actiuni)
+ &
+ */
+        String form;
+        String taste;
+        float weight;
+        public void eat(){
+            weight --;
+            form = "elipse";
 
-    public void muscam() {
-        weight --;  // greutatea scade
-        form = "elipsa";   // forma este elipsa
+
+        }
 
     }
-}
+
 
